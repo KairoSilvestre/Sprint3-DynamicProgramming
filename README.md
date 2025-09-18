@@ -1,9 +1,9 @@
 # Integrantes
 * [Kaique Zaffarani](https://github.com/Z4ffarani) | 556677
 
-* [Guilerme Santos Nunes](https://github.com/sannunez) | 556677
+* [Guilerme Santos Nunes](https://github.com/sannunez) | 558989
 
-* [Kairo da Silva Silvestre de Carvalho](https://github.com/KairoSilvestre) | 558288
+* [Kairo da Silva Silvestre de Carvalho](https://github.com/Pedro-Josue) | 558288
 
 * [Pedro Josué Pereira Almeida]() | 554913
 
@@ -102,3 +102,14 @@ Ordenar insumos pela validade (datas mais próximas na frente)
 ## Exemplo prático:
 
 * Ordenar insumos pela quantidade consumida.
+
+## Dados (Simulação)
+
+Os dados são gerados aleatóriamente para simular como funcionaria o sistema. 
+
+### Funcionalidades: 
+* Cria uma lista de insumos aleatórios com:
+    * Nome(insumos)
+    * Quantidade(quantidade)
+    * Data de validade(validade)
+Esses dados são usados para testar as estruturas (Fila, Pilha) e algoritmos (Busca, Ordenação).
