@@ -113,3 +113,42 @@ Os dados são gerados aleatóriamente para simular como funcionaria o sistema.
     * Quantidade(quantidade)
     * Data de validade(validade)
 Esses dados são usados para testar as estruturas (Fila, Pilha) e algoritmos (Busca, Ordenação).
+
+### Atualizações da SPRINT 4 - Dynamic Programming
+
+Durante a última etapa do projeto, foram realizadas atualizações específicas para atender aos novos requisitos relacionados à programação dinâmica e à validação de algoritmos.
+
+### Arquivos Atualizados
+
+## 1. estruturas/ordenacao.py
+
+O que foi feito:
+Foram adicionadas três novas implementações do algoritmo Merge Sort:
+```
+ 1. merge_sort_recursivo: versão recursiva (top-down).
+
+ 2. merge_sort_memo: versão com memoização, utilizando cache para armazenar subsoluções.
+
+ 3. merge_sort_iterativo: versão iterativa (bottom-up), eliminando o uso de recursão.
+```
+
+Essas versões foram criadas para cumprir os requisitos de desenvolvimento de soluções recursiva, com memorização e iterativa, demonstrando o uso dos princípios da programação dinâmica — definição de estados, decisões, função de transição e função objetivo.
+
+## 2. main.py
+
+O arquivo principal foi atualizado para:
+```
+1. Importar as novas funções do módulo ordenacao.
+
+2. Executar as três versões do Merge Sort.
+
+3. Comparar os resultados entre as versões para garantir que todas retornam o mesmo resultado.
+```
+Essa atualização valida experimentalmente o requisito 3 do professor, garantindo que as diferentes abordagens do algoritmo produzem resultados idênticos e funcionam de forma consistente dentro do sistema de gestão de almoxarifado.
+
+### Resultado das Alterações
+O projeto agora contempla os três paradigmas da programação dinâmica (recursivo, memoizado e iterativo).
+
+O código foi mantido modular e coeso, sem comprometer as funcionalidades anteriores.
+
+Todos os requisitos exigidos foram atendidos de forma clara, comprovável e integrada ao contexto do problema.
