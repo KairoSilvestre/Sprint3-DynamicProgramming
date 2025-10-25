@@ -19,11 +19,11 @@ O sistema simula o gerenciamento de insumos de laboratório, permitindo:
 ## Como rodar o projeto
 1. Clonar o repositório:
 ```bash
-    git clone https://github.com/KairoSilvestre/Sprint3-DynamicProgramming.git
+    git clone https://github.com/KairoSilvestre/Sprint4-DynamicProgramming.git
 ```
 2. Navegar para a pasta do projeto: 
 ```bash
-    cd Sprint3-DynamicProgramming
+    cd Sprint4-DynamicProgramming
 ```
 3. Executar projeto 
     py main.py 
