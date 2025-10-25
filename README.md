@@ -8,7 +8,7 @@
 * [Pedro Josué Pereira Almeida]() | 554913
 
 # Dynamic Programming 
-Esse projeto foi desenvolvido como parte da Sprint 3 da faculdade, com o objetivo de praticar conceitos de estruturas de dados e algoritmos de ordenação/busca em Python. 
+Esse projeto foi desenvolvido como parte da Sprint 4 da faculdade, com o objetivo de praticar conceitos de estruturas de dados e algoritmos de ordenação/busca em Python. 
 
 O sistema simula o gerenciamento de insumos de laboratório, permitindo: 
 
